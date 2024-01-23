@@ -1,0 +1,79 @@
+.address {
+  font-size: 30px;
+  color: white;
+  background-color: black;
+  border: 30px solid black;
+}
+
+.heddes {
+  background-color: #ffd761;
+  border: 30px solid #ffd761;
+  margin-top: 70px;
+}
+
+.header {
+  font-size: 70px;
+  margin-left: 40px;
+  margin-top: 70px;
+}
+
+.desciption {
+  font-size: 35px;
+  margin-left: 40px;
+  margin-top: 0px;
+
+}
+
+.hedimg {
+  width: 850px;
+  margin-left: 950px;
+  margin-top: -390px;
+  border-radius: 20px;
+  box-shadow: 20px 20px 50px 10px;
+}
+
+.conum {
+  color: white;
+}
+
+.about {
+  padding: 1px;
+  font-size: 40px; 
+  margin-left: 100px; 
+  margin-right: 100px; 
+  margin-top: 70px;
+  background: #ffdda3;
+  border: 30px solid #ffdda3;
+  box-shadow: 20px 20px ;
+}
+
+.onephoto {
+  width: 500px;
+  margin-left: 70px;
+  box-shadow: 20px 20px 20px;
+}
+
+.twophoto {
+  margin-left: 40px;
+  box-shadow: 20px 20px 20px;
+
+}
+
+.threephoto {
+  width: 500px;
+  margin-left: 70px;
+  box-shadow: 20px 20px 20px;
+}
+
+.posleimg {
+  text-align: center;
+  font-size: 50px;
+  background: #ffd761;
+  border: 30px solid #ffd761;
+}
+
+.second {
+  border: 7px solid;
+  border-radius: 40px;
+  background: #ffd761;
+}

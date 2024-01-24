@@ -88,18 +88,22 @@
   .header {
     font-size: 20px;
     text-align: center;
-    margin-top: 20px;
   }
   
   .desciption {
     font-size: 1px;
     text-align: center;
-    margin-top: 0px;
-   }
+  }
+
    .hedimg {
     width: 100px;
     margin-left: 20px;
     border-radius: 20px;
     box-shadow: 20px 20px 50px 10px;
+  }
+
+  .heddes {
+    background-color: #ffd761;
+    border: 10px solid #ffd761;
   }
 }

@@ -89,22 +89,23 @@
     font-size: 20px;
     text-align: center;
     margin-right: 20px;
+    margin-top: -100px;
   }
   
   .desciption {
     font-size: 1px;
     text-align: center;
   }
+  
+   .heddes {
+      background-color: #ffd761;
+      border: 5px solid #ffd761;
+    }
 
    .hedimg {
     width: 100px;
     margin-left: 20px;
     border-radius: 20px;
     box-shadow: 20px 20px 50px 10px;
-  }
-
-  .heddes {
-    background-color: #ffd761;
-    border: 5px solid #ffd761;
   }
 }

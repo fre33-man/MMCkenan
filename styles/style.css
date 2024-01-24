@@ -77,6 +77,16 @@
   background: #ffd761;
 }
 
+.assort {
+  margin-top: 50px;
+  font-size: 50px;
+}
+
+.names {
+  margin-left: 195px;
+  margin-top: 40px;
+  font-size: 50px;
+}
 @media only screen and (max-width: 800px) {
   .address {
     font-size: 10px;
@@ -86,26 +96,70 @@
   }  
 
   .header {
-    font-size: 20px;
+    font-size: 30px;
     text-align: center;
     margin-right: 20px;
-    margin-top: -100px;
-  }
-  
-  .desciption {
-    font-size: 1px;
-    text-align: center;
+    margin-top: 15px;
   }
   
    .heddes {
       background-color: #ffd761;
       border: 5px solid #ffd761;
+      margin-top: 2px;
     }
 
    .hedimg {
-    width: 250px;
-    margin-left: 60px;
+    width: 350px;
+    margin-left: 45px;
+    margin-top: 15px;
     border-radius: 20px;
     box-shadow: 20px 20px 50px 10px;
+  }
+
+  .desciption {
+    text-align: center;
+    font-size: 15px;
+    margin-right: 20px;
+    margin-top: 0px;
+  }
+  .about {
+    text-align: justify;
+    padding: 1px;
+    font-size: 15px; 
+    margin-top: 50px;
+    margin-bottom: 30px;
+    background: #ffdda3;
+    border: 20px solid #ffdda3;
+    box-shadow: 20px 20px ;
+  }
+  .assort {
+    margin-top: 50px;
+    font-size: 30px;
+  }
+  .onephoto {
+    width: 350px;
+    margin-left: 35px;
+    box-shadow: 20px 20px 20px;
+  }
+  .twophoto {
+    width: 350px;
+    box-shadow: 20px 20px 20px;
+    margin-left: 35px;
+  }
+  .threephoto {
+    margin-left: 35px;
+    width: 350px;
+    box-shadow: 20px 20px 20px;
+  }
+  .names {
+    margin-left: 30px;
+    margin-top: 40px;
+    font-size: 30px;
+  }
+  .posleimg {
+    text-align: center;
+    font-size: 30px;
+    background: #ffd761;
+    border: 30px solid #ffd761;
   }
 }

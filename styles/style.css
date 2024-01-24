@@ -76,3 +76,12 @@
   border-radius: 40px;
   background: #ffd761;
 }
+
+@media only screen and (max-width: 600px) {
+  .address {
+    font-size: 10px;
+    color: white;
+    background-color: black;
+    border: 10px solid black;
+  }  
+}

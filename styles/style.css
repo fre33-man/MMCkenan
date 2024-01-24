@@ -48,20 +48,19 @@
 }
 
 .onephoto {
-  width: 500px;
-  margin-left: 70px;
+  width: 450px;
+  margin-left: 20px;
   box-shadow: 20px 20px 20px;
 }
 
 .twophoto {
-  margin-left: 40px;
   box-shadow: 20px 20px 20px;
-
+  margin-left: 70px;
 }
 
 .threephoto {
-  width: 500px;
-  margin-left: 45px;
+  margin-left: 70px;
+  width: 450px;
   box-shadow: 20px 20px 20px;
 }
 

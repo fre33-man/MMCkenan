@@ -138,18 +138,18 @@
     font-size: 30px;
   }
   .onephoto {
-    width: 350px;
+    width: 340px;
     margin-left: 1px;
     box-shadow: 20px 20px 20px;
   }
   .twophoto {
-    width: 350px;
+    width: 340px;
     box-shadow: 20px 20px 20px;
     margin-left: 1px;
   }
   .threephoto {
     margin-left: 1px;
-    width: 350px;
+    width: 340px;
     box-shadow: 20px 20px 20px;
   }
   .names {

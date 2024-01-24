@@ -81,7 +81,13 @@
   .address {
     font-size: 10px;
     color: white;
-    background-color: black;
+    background-color: rgb(0, 0, 0);
     border: 10px solid black;
   }  
+
+  .header {
+    font-size: 20px;
+    margin-left: 10px;
+    margin-top: 20px;
+  }
 }

@@ -88,6 +88,17 @@
   margin-top: 40px;
   font-size: 50px;
 }
+
+.footer {
+  color: #ffffff;
+  text-align: center;
+  background: #525252;
+  padding: 5px;
+}
+
+.mail {
+  color: #ffffff;
+}
 @media only screen and (max-width: 720px) {
   .address {
     font-size: 10px;
